@@ -6,6 +6,8 @@ All workflow files must be stored in a specific folder structure so that GitHub 
 ## 📂 Folder Structure
 
 Your repository should look like this:
+
+```
 my-project/
 ├── .github/
 │ └── workflows/
@@ -15,3 +17,4 @@ my-project/
 ├── package.json
 ├── eslint.config.js
 └── README.md
+```
