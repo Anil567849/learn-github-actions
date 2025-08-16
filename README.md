@@ -1,6 +1,4 @@
 # GitHub Actions Workflow Setup
-
-This project uses **GitHub Actions** to enforce linting rules with ESLint.  
 All workflow files must be stored in a specific folder structure so that GitHub can detect and run them automatically.
 
 ---
